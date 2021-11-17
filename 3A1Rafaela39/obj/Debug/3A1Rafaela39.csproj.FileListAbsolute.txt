@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\3A1Rafaela39\3A1Rafaela39\obj\Debug\3A1Rafaela39.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\3A1Rafaela39\3A1Rafaela39\obj\Debug\_3A1Rafaela39.Form1.resources
+C:\Users\User\source\repos\3A1Rafaela39\3A1Rafaela39\obj\Debug\_3A1Rafaela39.Properties.Resources.resources
+C:\Users\User\source\repos\3A1Rafaela39\3A1Rafaela39\obj\Debug\3A1Rafaela39.csproj.GenerateResource.cache
+C:\Users\User\source\repos\3A1Rafaela39\3A1Rafaela39\obj\Debug\3A1Rafaela39.csproj.CoreCompileInputs.cache
